@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy! 🤠
+
+They/Them | Software Developer | Toronto-Based
+
+Welcome to my Github!
 
 <!--
 **chinanwu/chinanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
