@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-They/Them | Software Developer | Toronto-Based
+They/Them | Software Developer
 
 Welcome to my Github!
 
