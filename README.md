@@ -1,4 +1,4 @@
-### Howdy! 🤠
+### Welcome!
 
 They/Them | Software Developer
 
